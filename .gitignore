@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+venv
+__pycache__/
+mlruns/
+data/processed/
+models/*.joblib
+reports/*
+*.db
